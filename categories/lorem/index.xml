@@ -2,37 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lorem on 云管船手册</title>
-    <link>/categories/lorem/</link>
+    <link>https://yinghaikeji.github.io/categories/lorem/</link>
     <description>Recent content in lorem on 云管船手册</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="/categories/lorem/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://yinghaikeji.github.io/categories/lorem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Categories Post</title>
-      <link>/blog/2021/08/01/categories-post/</link>
+      <link>https://yinghaikeji.github.io/blog/2021/08/01/categories-post%E7%9A%84%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2021/08/01/categories-post/</guid>
+      <guid>https://yinghaikeji.github.io/blog/2021/08/01/categories-post%E7%9A%84%E5%89%AF%E6%9C%AC/</guid>
       <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
 categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
     </item>
     
     <item>
-      <title>Categories Post</title>
-      <link>/blog/2021/08/01/categories-post%E7%9A%84%E5%89%AF%E6%9C%AC/</link>
+      <title>Categories Post111</title>
+      <link>https://yinghaikeji.github.io/blog/2021/08/01/categories-post/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2021/08/01/categories-post%E7%9A%84%E5%89%AF%E6%9C%AC/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
+      <guid>https://yinghaikeji.github.io/blog/2021/08/01/categories-post/</guid>
+      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:111234234
+categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] This word is bold. Thiqqs word is italic.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus.</description>
     </item>
     
     <item>
       <title>Migrate from Jekyll</title>
-      <link>/blog/1/01/01/migrate-from-jekyll/</link>
+      <link>https://yinghaikeji.github.io/blog/1/01/01/migrate-from-jekyll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/blog/1/01/01/migrate-from-jekyll/</guid>
+      <guid>https://yinghaikeji.github.io/blog/1/01/01/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>

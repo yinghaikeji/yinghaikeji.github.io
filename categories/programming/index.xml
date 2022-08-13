@@ -2,47 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>programming on 云管船手册</title>
-    <link>/categories/programming/</link>
+    <link>https://yinghaikeji.github.io/categories/programming/</link>
     <description>Recent content in programming on 云管船手册</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://yinghaikeji.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Categories Post</title>
-      <link>/blog/2021/08/01/categories-post/</link>
+      <link>https://yinghaikeji.github.io/blog/2021/08/01/categories-post%E7%9A%84%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2021/08/01/categories-post/</guid>
+      <guid>https://yinghaikeji.github.io/blog/2021/08/01/categories-post%E7%9A%84%E5%89%AF%E6%9C%AC/</guid>
       <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
 categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
     </item>
     
     <item>
-      <title>Categories Post</title>
-      <link>/blog/2021/08/01/categories-post%E7%9A%84%E5%89%AF%E6%9C%AC/</link>
+      <title>Categories Post111</title>
+      <link>https://yinghaikeji.github.io/blog/2021/08/01/categories-post/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2021/08/01/categories-post%E7%9A%84%E5%89%AF%E6%9C%AC/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
+      <guid>https://yinghaikeji.github.io/blog/2021/08/01/categories-post/</guid>
+      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:111234234
+categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] This word is bold. Thiqqs word is italic.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus.</description>
     </item>
     
     <item>
       <title>Linked post</title>
-      <link>/blog/2015/10/02/linked-post/</link>
+      <link>https://yinghaikeji.github.io/blog/2015/10/02/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>/blog/2015/10/02/linked-post/</guid>
+      <guid>https://yinghaikeji.github.io/blog/2015/10/02/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
 menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
     </item>
     
     <item>
       <title>Go is for lovers</title>
-      <link>/blog/2015/09/17/go-is-for-lovers/</link>
+      <link>https://yinghaikeji.github.io/blog/2015/09/17/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>/blog/2015/09/17/go-is-for-lovers/</guid>
+      <guid>https://yinghaikeji.github.io/blog/2015/09/17/go-is-for-lovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
