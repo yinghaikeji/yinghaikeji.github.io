@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>消息 on 云管船手册</title>
+    <link>https://yinghaikeji.github.io/categories/%E6%B6%88%E6%81%AF/</link>
+    <description>Recent content in 消息 on 云管船手册</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://yinghaikeji.github.io/categories/%E6%B6%88%E6%81%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>工作通知讲解</title>
+      <link>https://yinghaikeji.github.io/blog/2021/08/01/notice/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/blog/2021/08/01/notice/</guid>
+      <description>&lt;p&gt;页面中显示相应帐号所需要完成工作的任务提示可根据具体的模块筛选和根据通知日期进行筛选。点击“立即处理”进行任务操作。&lt;/p&gt;
+&lt;p&gt;点击“立即处理”后&lt;/p&gt;
+&lt;p&gt;点击后，页面会自动跳转到待处理任务页面，在该页面将需要处理的单据完成后，任务就会消失。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

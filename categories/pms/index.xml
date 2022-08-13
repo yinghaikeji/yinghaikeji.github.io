@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PMS on 云管船手册</title>
+    <link>https://yinghaikeji.github.io/categories/pms/</link>
+    <description>Recent content in PMS on 云管船手册</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://yinghaikeji.github.io/categories/pms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>维修保养讲解</title>
+      <link>https://yinghaikeji.github.io/blog/2021/08/01/pms/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/blog/2021/08/01/pms/</guid>
+      <description>&lt;p&gt;岸基管理人员初始化船舶设备基本信息，设备维修保养工作信息，设置设备计时器，完成周期性工作首排
+船端根据岸基初始化后的数据，更新设备计时器，根据月度计划，填写工单报告，确认工单报告，提交工单报告
+岸基管理人员对船上提交的工单报告进行批复和分析&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8,54 +8,34 @@
     <language>zh</language>
     <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://yinghaikeji.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Categories Post111</title>
-      <link>https://yinghaikeji.github.io/blog/2021/08/01/categories-post/</link>
+      <title>工作通知讲解</title>
+      <link>https://yinghaikeji.github.io/blog/2021/08/01/notice/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://yinghaikeji.github.io/blog/2021/08/01/categories-post/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:111234234
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] This word is bold. Thiqqs word is italic.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus.</description>
+      <guid>https://yinghaikeji.github.io/blog/2021/08/01/notice/</guid>
+      <description>&lt;p&gt;页面中显示相应帐号所需要完成工作的任务提示可根据具体的模块筛选和根据通知日期进行筛选。点击“立即处理”进行任务操作。&lt;/p&gt;
+&lt;p&gt;点击“立即处理”后&lt;/p&gt;
+&lt;p&gt;点击后，页面会自动跳转到待处理任务页面，在该页面将需要处理的单据完成后，任务就会消失。&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Go is for lovers</title>
-      <link>https://yinghaikeji.github.io/blog/2015/09/17/go-is-for-lovers/</link>
+      <title>维修保养讲解</title>
+      <link>https://yinghaikeji.github.io/blog/2021/08/01/pms/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/blog/2021/08/01/pms/</guid>
+      <description>&lt;p&gt;岸基管理人员初始化船舶设备基本信息，设备维修保养工作信息，设置设备计时器，完成周期性工作首排
+船端根据岸基初始化后的数据，更新设备计时器，根据月度计划，填写工单报告，确认工单报告，提交工单报告
+岸基管理人员对船上提交的工单报告进行批复和分析&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>船舶证书</title>
+      <link>https://yinghaikeji.github.io/blog/2015/09/17/shipcertificate/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://yinghaikeji.github.io/blog/2015/09/17/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Hugo is for lovers</title>
-      <link>https://yinghaikeji.github.io/blog/2015/08/03/hugo-is-for-lovers/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>https://yinghaikeji.github.io/blog/2015/08/03/hugo-is-for-lovers/</guid>
-      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;https://yinghaikeji.github.io/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
-    </item>
-    
-    <item>
-      <title>Creating a new theme</title>
-      <link>https://yinghaikeji.github.io/blog/2015/06/24/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://yinghaikeji.github.io/blog/2015/06/24/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://yinghaikeji.github.io/blog/1/01/01/migrate-from-jekyll/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yinghaikeji.github.io/blog/1/01/01/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>https://yinghaikeji.github.io/blog/2015/09/17/shipcertificate/</guid>
+      <description>&lt;p&gt;对船舶证书的检验信息、换证、船舶的基本资料的管理，换证、检验及时预警，随时可查看船舶的证书信息及船舶证书上传、下载。&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -8,38 +8,65 @@
     <language>zh</language>
     <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://yinghaikeji.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>lorem</title>
-      <link>https://yinghaikeji.github.io/categories/lorem/</link>
+      <title>PMS</title>
+      <link>https://yinghaikeji.github.io/categories/pms/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://yinghaikeji.github.io/categories/lorem/</guid>
+      <guid>https://yinghaikeji.github.io/categories/pms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>保养</title>
+      <link>https://yinghaikeji.github.io/categories/%E4%BF%9D%E5%85%BB/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/categories/%E4%BF%9D%E5%85%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>通知</title>
+      <link>https://yinghaikeji.github.io/categories/%E9%80%9A%E7%9F%A5/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/categories/%E9%80%9A%E7%9F%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>通知通函</title>
+      <link>https://yinghaikeji.github.io/categories/%E9%80%9A%E7%9F%A5%E9%80%9A%E5%87%BD/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/categories/%E9%80%9A%E7%9F%A5%E9%80%9A%E5%87%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>维保</title>
+      <link>https://yinghaikeji.github.io/categories/%E7%BB%B4%E4%BF%9D/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/categories/%E7%BB%B4%E4%BF%9D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>消息</title>
+      <link>https://yinghaikeji.github.io/categories/%E6%B6%88%E6%81%AF/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/categories/%E6%B6%88%E6%81%AF/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
       <link>https://yinghaikeji.github.io/categories/programming/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
       <guid>https://yinghaikeji.github.io/categories/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pseudo</title>
-      <link>https://yinghaikeji.github.io/categories/pseudo/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      
-      <guid>https://yinghaikeji.github.io/categories/pseudo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>starting</title>
-      <link>https://yinghaikeji.github.io/categories/starting/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://yinghaikeji.github.io/categories/starting/</guid>
       <description></description>
     </item>
     
