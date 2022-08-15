@@ -39,16 +39,6 @@
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://yinghaikeji.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yinghaikeji.github.io/contact/</guid>
-      <description>我们怎么帮助你们 华为云专业的服务团队，致力于为您提供专业的售前购买咨询服务，及完善的售后技术服务，助您云上无忧
-为您提供售前购买咨询、解决方案推荐、配置推荐等1v1服务， 助您上云无忧！（工作时间周一至周五9：00-18：00）</description>
-    </item>
-    
-    <item>
       <title>常见问题解决方案</title>
       <link>https://yinghaikeji.github.io/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -73,6 +63,16 @@
 船端服务器异常解决方法 船端反馈服务器异常无法登录
 首先确认一下客户无法登陆的设备是否是主机电脑。（可以先确认系统，是否是Win10）同时告知船上客户端在不联网的情况下是可以进行操作的，先解决船端疑虑，可以建议船上强刷“ctrl+F5” 如果不好用“在主机电脑左下角开始-找到WINSEA船舶管理系统文件，点击后会出现重启服务，然后鼠标右键单击选择更多，打开文件位置，然后找到重启服务 右键点击以管理员身份运行，运行完成后重新登录下试试” 船端操作注意事项 客户咨询在待处理中看不到需要处理的超期工单，只有点开全部才能看到需要处理工单。 确认咨询对象身份，只有设备负责人待处理里有工单计划，其他有权限查看的职务只能在全部中看到
 衷心感谢您的关注。请访问我们的媒体渠道或者官网以及通过邮件 reg@yinghaikeji.com联系我们的媒体团队。</description>
+    </item>
+    
+    <item>
+      <title>联系我们</title>
+      <link>https://yinghaikeji.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/contact/</guid>
+      <description>我们怎么帮助你们 赢海科技专业的服务团队，致力于为您提供专业的售前购买咨询服务，及完善的售后技术服务，助您云上无忧
+为您提供售前购买咨询、解决方案推荐、配置推荐等1v1服务， 助您上云无忧！</description>
     </item>
     
   </channel>
