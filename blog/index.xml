@@ -30,12 +30,15 @@
     </item>
     
     <item>
-      <title>船舶证书</title>
+      <title>船舶证书使用介绍</title>
       <link>https://yinghaikeji.github.io/blog/2015/09/17/shipcertificate/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
       <guid>https://yinghaikeji.github.io/blog/2015/09/17/shipcertificate/</guid>
-      <description>&lt;p&gt;对船舶证书的检验信息、换证、船舶的基本资料的管理，换证、检验及时预警，随时可查看船舶的证书信息及船舶证书上传、下载。&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;证书管理是对船舶证书的检验信息、换证、船舶证书资料的管理，可对达到换证、检验预警期的证书及时预警&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
   </channel>
