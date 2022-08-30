@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>证书 on 云管船手册</title>
+    <link>https://yinghaikeji.github.io/categories/%E8%AF%81%E4%B9%A6/</link>
+    <description>Recent content in 证书 on 云管船手册</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate><atom:link href="https://yinghaikeji.github.io/categories/%E8%AF%81%E4%B9%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>船舶证书使用介绍</title>
+      <link>https://yinghaikeji.github.io/blog/2015/09/17/shipcertificate/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/blog/2015/09/17/shipcertificate/</guid>
+      <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;证书管理是对船舶证书的检验信息、换证、船舶证书资料的管理，可对达到换证、检验预警期的证书及时预警&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>物料管理 on 云管船手册</title>
+    <link>https://yinghaikeji.github.io/tags/%E7%89%A9%E6%96%99%E7%AE%A1%E7%90%86/</link>
+    <description>Recent content in 物料管理 on 云管船手册</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 19 Sep 2015 13:47:08 +0200</lastBuildDate><atom:link href="https://yinghaikeji.github.io/tags/%E7%89%A9%E6%96%99%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>物料管理使用介绍</title>
+      <link>https://yinghaikeji.github.io/blog/2015/09/19/materialmanagement/</link>
+      <pubDate>Sat, 19 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/blog/2015/09/19/materialmanagement/</guid>
+      <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;物料管理一共包含八个模块，分别是物料管理,IMPA6物料,物料申请,物料供船,物料供船
+质量反馈,物料出库,库存管理,库存统计&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

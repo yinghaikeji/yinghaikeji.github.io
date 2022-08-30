@@ -8,17 +8,6 @@
     <language>zh</language>
     <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://yinghaikeji.github.io/authors/%E8%B5%A2%E6%B5%B7%E5%B0%8F%E4%BA%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>工作通知讲解</title>
-      <link>https://yinghaikeji.github.io/blog/2021/08/01/notice/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      
-      <guid>https://yinghaikeji.github.io/blog/2021/08/01/notice/</guid>
-      <description>&lt;p&gt;页面中显示相应帐号所需要完成工作的任务提示可根据具体的模块筛选和根据通知日期进行筛选。点击“立即处理”进行任务操作。&lt;/p&gt;
-&lt;p&gt;点击“立即处理”后&lt;/p&gt;
-&lt;p&gt;点击后，页面会自动跳转到待处理任务页面，在该页面将需要处理的单据完成后，任务就会消失。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>维修保养讲解</title>
       <link>https://yinghaikeji.github.io/blog/2021/08/01/pms/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
@@ -27,6 +16,31 @@
       <description>&lt;p&gt;岸基管理人员初始化船舶设备基本信息，设备维修保养工作信息，设置设备计时器，完成周期性工作首排
 船端根据岸基初始化后的数据，更新设备计时器，根据月度计划，填写工单报告，确认工单报告，提交工单报告
 岸基管理人员对船上提交的工单报告进行批复和分析&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>物料管理使用介绍</title>
+      <link>https://yinghaikeji.github.io/blog/2015/09/19/materialmanagement/</link>
+      <pubDate>Sat, 19 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/blog/2015/09/19/materialmanagement/</guid>
+      <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;物料管理一共包含八个模块，分别是物料管理,IMPA6物料,物料申请,物料供船,物料供船
+质量反馈,物料出库,库存管理,库存统计&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>船舶证书使用介绍</title>
+      <link>https://yinghaikeji.github.io/blog/2015/09/17/shipcertificate/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/blog/2015/09/17/shipcertificate/</guid>
+      <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;证书管理是对船舶证书的检验信息、换证、船舶证书资料的管理，可对达到换证、检验预警期的证书及时预警&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
   </channel>

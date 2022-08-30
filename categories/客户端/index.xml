@@ -6,7 +6,20 @@
     <description>Recent content in 客户端 on 云管船手册</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate><atom:link href="https://yinghaikeji.github.io/categories/%E5%AE%A2%E6%88%B7%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Sep 2015 13:47:08 +0200</lastBuildDate><atom:link href="https://yinghaikeji.github.io/categories/%E5%AE%A2%E6%88%B7%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>物料管理使用介绍</title>
+      <link>https://yinghaikeji.github.io/blog/2015/09/19/materialmanagement/</link>
+      <pubDate>Sat, 19 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/blog/2015/09/19/materialmanagement/</guid>
+      <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;物料管理一共包含八个模块，分别是物料管理,IMPA6物料,物料申请,物料供船,物料供船
+质量反馈,物料出库,库存管理,库存统计&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
     <item>
       <title>船舶证书使用介绍</title>
       <link>https://yinghaikeji.github.io/blog/2015/09/17/shipcertificate/</link>
