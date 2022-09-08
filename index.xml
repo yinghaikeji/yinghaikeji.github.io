@@ -8,7 +8,7 @@
     <language>zh</language>
     <lastBuildDate>Wed, 01 Sep 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://yinghaikeji.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>工作通知讲解</title>
+      <title>备件管理使用介绍</title>
       <link>https://yinghaikeji.github.io/blog/2021/09/01/sparepart/</link>
       <pubDate>Wed, 01 Sep 2021 21:29:20 +0200</pubDate>
       
@@ -17,17 +17,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;备件管理一共包括，设备管理、备件手册、备件申请、备件供船、质量反馈、备件出库、库存管理、库存统计包含八个模块&lt;/p&gt;
 &lt;/blockquote&gt;</description>
-    </item>
-    
-    <item>
-      <title>维修保养讲解</title>
-      <link>https://yinghaikeji.github.io/blog/2021/08/01/pms/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      
-      <guid>https://yinghaikeji.github.io/blog/2021/08/01/pms/</guid>
-      <description>&lt;p&gt;岸基管理人员初始化船舶设备基本信息，设备维修保养工作信息，设置设备计时器，完成周期性工作首排
-船端根据岸基初始化后的数据，更新设备计时器，根据月度计划，填写工单报告，确认工单报告，提交工单报告
-岸基管理人员对船上提交的工单报告进行批复和分析&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -62,7 +51,7 @@
       
       <guid>https://yinghaikeji.github.io/faq/</guid>
       <description>常见问题 常见问题是在船端使用的时候出现的一些常见问题以及解决方案，如果有碰到新的问题欢迎联系邮箱： reg@yinghaikeji.com ，添加到此文档中。
-作者: 赢海小云 官网: 赢海科技 公众号: 航海大世界 抖音: 赢海科技*** 常见问题目录 船上的数据怎么同步到岸基 初始化数据库存为零 新增库存的方法 数据同步失败解决方法 筛选问题解决方法 怎么导出log文件 如结算单无法编辑问题 防火墙怎么关闭 船端服务器异常解决方法 船端操作注意事项 船上的数据怎么同步到岸基 船上不会同步数据如何处理/或自动同步失败/或网络环境差，需手动同步，那么应该怎么同步呢？
+常见问题目录 船上的数据怎么同步到岸基 初始化数据库存为零 新增库存的方法 数据同步失败解决方法 筛选问题解决方法 怎么导出log文件 如结算单无法编辑问题 防火墙怎么关闭 船端服务器异常解决方法 船端操作注意事项 船上的数据怎么同步到岸基 船上不会同步数据如何处理/或自动同步失败/或网络环境差，需手动同步，那么应该怎么同步呢？
 船长账号登录，左侧“系统设置” 点击船端同步 选择自动同步差分数据 船长账号登录，进入船端管理模块 点击数据同步 选择手动同步 导出船端数据包，发送给赢海客服或系统岸基管理员 船端数据包导入后，会将岸基数据包传送给船上，船端再导入岸基数据包即可。 船端系统同步数据网络不好的时候可以选择手动同步，手动同步方法如下：船长账号登录，进入船端管理模块-》点击数据同步-》选择手动同步-》导出船端数据包发送给service@yinghaikeji.com这个邮箱，或者直接微信发给我们也行
 初始化数据库存为零 初始化数据库存为零
 （可以通过盘点库存增加数量）备件物料管理中，点击库存管理，点开库存盘点，新增库存，进行增加或减少
