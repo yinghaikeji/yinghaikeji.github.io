@@ -6,16 +6,17 @@
     <description>Recent content in 通知通函 on 云管船手册</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://yinghaikeji.github.io/categories/%E9%80%9A%E7%9F%A5%E9%80%9A%E5%87%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://yinghaikeji.github.io/categories/%E9%80%9A%E7%9F%A5%E9%80%9A%E5%87%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>工作通知讲解</title>
-      <link>https://yinghaikeji.github.io/blog/2021/08/01/notice/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <link>https://yinghaikeji.github.io/blog/2021/09/01/sparepart/</link>
+      <pubDate>Wed, 01 Sep 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://yinghaikeji.github.io/blog/2021/08/01/notice/</guid>
-      <description>&lt;p&gt;页面中显示相应帐号所需要完成工作的任务提示可根据具体的模块筛选和根据通知日期进行筛选。点击“立即处理”进行任务操作。&lt;/p&gt;
-&lt;p&gt;点击“立即处理”后&lt;/p&gt;
-&lt;p&gt;点击后，页面会自动跳转到待处理任务页面，在该页面将需要处理的单据完成后，任务就会消失。&lt;/p&gt;</description>
+      <guid>https://yinghaikeji.github.io/blog/2021/09/01/sparepart/</guid>
+      <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;备件管理一共包括，设备管理、备件手册、备件申请、备件供船、质量反馈、备件出库、库存管理、库存统计包含八个模块&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
   </channel>
