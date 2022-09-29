@@ -15,7 +15,19 @@
       <guid>https://yinghaikeji.github.io/blog/2021/09/01/sparepart/</guid>
       <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
 &lt;blockquote&gt;
-&lt;p&gt;备件管理一共包括，设备管理、备件手册、备件申请、备件供船、质量反馈、备件出库、库存管理、库存统计包含八个模块&lt;/p&gt;
+&lt;p&gt;【备件管理】共包括设备管理、备件手册、备件申请、备件供船、质量反馈、备件出库、库存管理、库存统计八个模块.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>维修保养使用介绍</title>
+      <link>https://yinghaikeji.github.io/blog/2015/09/19/maintenance/</link>
+      <pubDate>Sat, 19 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/blog/2015/09/19/maintenance/</guid>
+      <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;【维修保养】共包括工单计划、工单报告、工单历史、检查性报告、计时器、设备管理、以及基础数据七个模块。&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
@@ -27,8 +39,8 @@
       <guid>https://yinghaikeji.github.io/blog/2015/09/19/materialmanagement/</guid>
       <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
 &lt;blockquote&gt;
-&lt;p&gt;物料管理一共包含八个模块，分别是物料管理,IMPA6物料,物料申请,物料供船,物料供船
-质量反馈,物料出库,库存管理,库存统计&lt;/p&gt;
+&lt;p&gt;【物料管理】共包含物料管理、IMPA6物料、物料申请、物料供船、
+质量反馈、物料出库、库存管理、库存统计八个模块。&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
@@ -40,7 +52,7 @@
       <guid>https://yinghaikeji.github.io/blog/2015/09/17/shipcertificate/</guid>
       <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
 &lt;blockquote&gt;
-&lt;p&gt;证书管理是对船舶证书的检验信息、换证、船舶证书资料的管理，可对达到换证、检验预警期的证书及时预警&lt;/p&gt;
+&lt;p&gt;【证书管理】是对船舶证书的检验信息、换证、船舶证书资料的管理，对可达到换证、检验预警期的证书及时预警。&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     

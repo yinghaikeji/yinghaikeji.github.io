@@ -15,7 +15,19 @@
       <guid>https://yinghaikeji.github.io/blog/2021/09/01/sparepart/</guid>
       <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
 &lt;blockquote&gt;
-&lt;p&gt;备件管理一共包括，设备管理、备件手册、备件申请、备件供船、质量反馈、备件出库、库存管理、库存统计包含八个模块&lt;/p&gt;
+&lt;p&gt;【备件管理】共包括设备管理、备件手册、备件申请、备件供船、质量反馈、备件出库、库存管理、库存统计八个模块.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>维修保养使用介绍</title>
+      <link>https://yinghaikeji.github.io/blog/2015/09/19/maintenance/</link>
+      <pubDate>Sat, 19 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://yinghaikeji.github.io/blog/2015/09/19/maintenance/</guid>
+      <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;【维修保养】共包括工单计划、工单报告、工单历史、检查性报告、计时器、设备管理、以及基础数据七个模块。&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
@@ -27,8 +39,8 @@
       <guid>https://yinghaikeji.github.io/blog/2015/09/19/materialmanagement/</guid>
       <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
 &lt;blockquote&gt;
-&lt;p&gt;物料管理一共包含八个模块，分别是物料管理,IMPA6物料,物料申请,物料供船,物料供船
-质量反馈,物料出库,库存管理,库存统计&lt;/p&gt;
+&lt;p&gt;【物料管理】共包含物料管理、IMPA6物料、物料申请、物料供船、
+质量反馈、物料出库、库存管理、库存统计八个模块。&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
@@ -40,7 +52,7 @@
       <guid>https://yinghaikeji.github.io/blog/2015/09/17/shipcertificate/</guid>
       <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
 &lt;blockquote&gt;
-&lt;p&gt;证书管理是对船舶证书的检验信息、换证、船舶证书资料的管理，可对达到换证、检验预警期的证书及时预警&lt;/p&gt;
+&lt;p&gt;【证书管理】是对船舶证书的检验信息、换证、船舶证书资料的管理，对可达到换证、检验预警期的证书及时预警。&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
@@ -50,8 +62,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yinghaikeji.github.io/faq/</guid>
-      <description>常见问题 常见问题是在船端使用的时候出现的一些常见问题以及解决方案，如果有碰到新的问题欢迎联系邮箱： reg@yinghaikeji.com ，添加到此文档中。
-常见问题目录 船上的数据怎么同步到岸基 初始化数据库存为零 新增库存的方法 数据同步失败解决方法 筛选问题解决方法 怎么导出log文件 如结算单无法编辑问题 防火墙怎么关闭 船端服务器异常解决方法 船端操作注意事项 船上的数据怎么同步到岸基 船上不会同步数据如何处理/或自动同步失败/或网络环境差，需手动同步，那么应该怎么同步呢？
+      <description>【常见问题】是在船端使用的时候出现的一些常见问题以及解决方案。如果有新的问题欢迎联系邮箱： reg@yinghaikeji.com。
+【目录】 船上的数据怎么同步到岸基 初始化数据库存为零 新增库存的方法 数据同步失败解决方法 筛选问题解决方法 怎么导出log文件 如结算单无法编辑问题 防火墙怎么关闭 船端服务器异常解决方法 船端操作注意事项 船上的数据怎么同步到岸基 船上不会同步数据如何处理/或自动同步失败/或网络环境差，需手动同步，那么应该怎么同步呢？
 船长账号登录，左侧“系统设置” 点击船端同步 选择自动同步差分数据 船长账号登录，进入船端管理模块 点击数据同步 选择手动同步 导出船端数据包，发送给赢海客服或系统岸基管理员 船端数据包导入后，会将岸基数据包传送给船上，船端再导入岸基数据包即可。 船端系统同步数据网络不好的时候可以选择手动同步，手动同步方法如下：船长账号登录，进入船端管理模块-》点击数据同步-》选择手动同步-》导出船端数据包发送给service@yinghaikeji.com这个邮箱，或者直接微信发给我们也行
 初始化数据库存为零 初始化数据库存为零
 （可以通过盘点库存增加数量）备件物料管理中，点击库存管理，点开库存盘点，新增库存，进行增加或减少
@@ -77,8 +89,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yinghaikeji.github.io/contact/</guid>
-      <description>我们怎么帮助你们 赢海科技专业的服务团队，致力于为您提供专业的售前购买咨询服务，及完善的售后技术服务，助您云上无忧
-为您提供售前购买咨询、解决方案推荐、配置推荐等1v1服务， 助您上云无忧！</description>
+      <description>赢海科技专业的服务团队，致力于为您提供专业的售前购买咨询服务，及完善的售后技术服务，助您云上无忧！</description>
     </item>
     
   </channel>
